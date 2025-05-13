@@ -1,0 +1,10 @@
+nombre = input("Ingrese su nombre: ")
+print(nombre)
+print(type(nombre))
+edad = input("Ingrese su edad: ")
+print(edad)
+print(type(edad))
+#Castin = cambiar tipo de dato
+name = int(input("Ingrese su direccion: "))
+print(name)
+print(type(name))
